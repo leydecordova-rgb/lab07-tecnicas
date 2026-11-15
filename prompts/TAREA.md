@@ -2,13 +2,12 @@
 
 ## Tarea elegida
 
-```text
 Desarrollo de una aplicacón web
-```
 
 ## Version 1: prompt basico
-
+```text
 Crear una aplicación web que permita buscar habitaciones y tambien permira publicar a los dueños habitaciones disponibles.
+```
 
 ## Version 2
 
@@ -133,7 +132,7 @@ Revisa tu respuesta contra la lista de requisitos de este prompt y marca cada un
 | Qué revisar | Cumple (Sí / No) 
 |--------|:-----------------:
 | ¿Ejecuto las 7 fases?|Si |
-| ¿Ejecuto las 7 fases?|Si |
+| ¿Ejecuto la API de forma correcta?|No |
 | ¿Presento errores y se autocorrigio?|Si |
 | ¿Se recomienda crear un software desde cero solo con IA?|No |
 
